@@ -1,6 +1,7 @@
 # MG5
 ## Devlog
-Put your Devlog here.
+NavMesh is better for pathfinding around obstacles. Physics-based movement is better for games like Rocket League, where realistic motion matters.
+Vector3.Distance calculates the distance between each bird and the player. Birds within the specified distance will run away.
 
 ## Open-Source Assets
 - [Quirky animal 3D models](https://assetstore.unity.com/packages/3d/characters/animals/quirky-series-free-animals-pack-178235)
